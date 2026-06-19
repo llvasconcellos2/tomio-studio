@@ -1579,7 +1579,7 @@ p.form-submit input[type="submit"], a.color-btn,button.color-btn{
 	font-weight: 400 !important; 
 	font-size: 12px;
 	text-rendering: optimizeLegibility;
-	background:url('http://localhost/wp-content/themes/ninezeroseven/assets/img/theme/btn-glow.png') 0 0 repeat-x;
+	background:url('../img/theme/btn-glow.png') 0 0 repeat-x;
 	padding:3px 15px 4px 15px;
 	display: inline-block;
 	text-shadow:0 1px 1px #333333;
@@ -1690,7 +1690,7 @@ a.btn:hover{
 }
 
 .inner{
-	background:url('http://localhost/wp-content/themes/ninezeroseven/assets/img/theme/btn-glow.png') repeat-x ;
+	background:url('../img/theme/btn-glow.png') repeat-x ;
 	display: block;
 	border-radius: 10px;
 	height:15px;

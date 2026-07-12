@@ -63,9 +63,12 @@ This project is the studio's public-facing website: a single-page, parallax-driv
 
 Key features built into the site:
 
-- Built a one-page parallax WordPress site with a filterable video portfolio (Corporativo / Wedding Day Films), letting prospective clients browse by service line and preview embedded YouTube reels in-page — shortening the path from discovery to quote request.
-- Implemented a custom contact form wired to WordPress's AJAX endpoint with nonce-protected submission, giving the studio a frictionless lead-capture channel directly on the homepage instead of relying on email or social DMs.
-- Set up category-tagged blog posts for delivered client work (e.g. Caravana Librelato Joinville, RS Tennis Joinville), turning each finished project into a public case study that doubles as SEO-friendly proof of work for new prospects.
+<!-- KEY FEATURES -->
+### Key Features
+
+- **Filterable video portfolio** — a one-page parallax site with a filterable reel (Corporativo / Wedding Day Films), letting prospective clients browse by service line and preview embedded reels in-page, shortening the path from discovery to quote request
+- **Frictionless lead capture** — a custom contact form with nonce-protected AJAX submission, giving the studio a lead-capture channel directly on the homepage instead of relying on email or social DMs
+- **Case-study blog** — category-tagged posts for delivered client work (e.g. Caravana Librelato Joinville, RS Tennis Joinville), turning each finished project into a public case study that doubles as SEO-friendly proof of work for new prospects
 
 This repository is an archival snapshot of the live site — captured via `wget` (see `/rip`) — along with the original theme assets, uploaded media, and a full database export (`db/tomio.sql`), preserved for portfolio reference.
 
